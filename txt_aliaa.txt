@@ -1,0 +1,7 @@
+git init
+git add
+ls
+git commit 
+git status
+touch txt
+git config
